@@ -1,0 +1,17 @@
+Row1: 16:9
+
+Row2: 16:9
+
+Row3: 3:2
+
+Row4, Row5: (Circular Images): 1:1
+
+Row6, Row7: 16:9
+
+Row8, Row9: 4:3
+
+Row10: 16:9
+
+Last Section (Larger Images): 4:3
+
+Last Section (Smaller Images): 16:9
